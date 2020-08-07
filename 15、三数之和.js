@@ -55,4 +55,4 @@ const threeSum = function(nums) {
   }
 
   return res
-};
+}

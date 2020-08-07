@@ -8,7 +8,7 @@ const twoSum = function(nums, target) {
       }
     }
   }
-};
+}
 
 // 两遍哈希
 
@@ -29,7 +29,7 @@ const twoSum = function(nums, target) {
       return [i, map.get(diff)]
     }
   }
-};
+}
 
 // 一遍哈希，不需要特意遍历建立哈希表，直接在没有找到答案后存储对应项
 
@@ -45,4 +45,4 @@ const twoSum = function(nums, target) {
 
     map.set(nums[i], i)
   }
-};
+}
