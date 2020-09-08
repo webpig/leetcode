@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/127. 单词接龙.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/433. 最小基因变化.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/130. 被围绕的区域.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/560. 和为K的子数组.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/77. 组合.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +58,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,7 +70,10 @@
       <option name="presentableId" value="Default" />
       <updated>1599377118668</updated>
       <workItem from="1599377119891" duration="1994000" />
-      <workItem from="1599461905011" duration="3813000" />
+      <workItem from="1599461905011" duration="3861000" />
+      <workItem from="1599499899894" duration="137000" />
+      <workItem from="1599527401630" duration="4436000" />
+      <workItem from="1599568892638" duration="4000000" />
     </task>
     <servers />
   </component>
@@ -86,5 +91,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1599500036021">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1599500036021" />
   </component>
 </project>
