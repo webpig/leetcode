@@ -20,9 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/130. 被围绕的区域.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/560. 和为K的子数组.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/77. 组合.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/103. 二叉树的锯齿形层次遍历.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/130. 被围绕的区域2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39. 组合总和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40. 组合总和 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53. 最大子序和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53. 最大子序和2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/77. 组合2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/874. 模拟行走机器人.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +63,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,7 +78,10 @@
       <workItem from="1599461905011" duration="3861000" />
       <workItem from="1599499899894" duration="137000" />
       <workItem from="1599527401630" duration="4436000" />
-      <workItem from="1599568892638" duration="4000000" />
+      <workItem from="1599568892638" duration="7028000" />
+      <workItem from="1599660062310" duration="354000" />
+      <workItem from="1599665803326" duration="3684000" />
+      <workItem from="1599736742048" duration="6912000" />
     </task>
     <servers />
   </component>
@@ -93,9 +101,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="89" key="SettingsEditor" timestamp="1599500036021">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599702796413">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599702796413" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1599702885076">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599702885076" />
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1599500036021" />
   </component>
 </project>
