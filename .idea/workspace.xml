@@ -20,14 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/103. 二叉树的锯齿形层次遍历.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/130. 被围绕的区域2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/39. 组合总和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40. 组合总和 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/53. 最大子序和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/53. 最大子序和2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/77. 组合2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/874. 模拟行走机器人.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. 盛最多水的容器.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1143. 最长公共子序列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. 三数之和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/216. 组合总和 III.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/283. 移动零.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/377. 组合总和 Ⅳ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/637. 二叉树的层平均值.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/74. 搜索二维矩阵.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指 Offer 05. 替换空格.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/四数之和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/跳跃游戏.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +69,20 @@
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager" selected="Node.js.跳跃游戏.js">
+    <configuration name="1143. 最长公共子序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1143. 最长公共子序列.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="跳跃游戏.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/跳跃游戏.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.跳跃游戏.js" />
+        <item itemvalue="Node.js.1143. 最长公共子序列.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,6 +99,8 @@
       <workItem from="1599660062310" duration="354000" />
       <workItem from="1599665803326" duration="3684000" />
       <workItem from="1599736742048" duration="6912000" />
+      <workItem from="1599828662878" duration="17343000" />
+      <workItem from="1599998045768" duration="173000" />
     </task>
     <servers />
   </component>
@@ -105,6 +124,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599702796413" />
+    <state width="1396" height="153" key="GridCell.Tab.0.bottom" timestamp="1599969297004">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599969297004" />
+    <state width="1396" height="153" key="GridCell.Tab.0.center" timestamp="1599969297003">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="153" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599969297003" />
+    <state width="1396" height="153" key="GridCell.Tab.0.left" timestamp="1599969297002">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="153" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599969297002" />
+    <state width="1396" height="153" key="GridCell.Tab.0.right" timestamp="1599969297003">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="153" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599969297003" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1599702885076">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
