@@ -20,21 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1143. 最长公共子序列2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/120. 三角形最小路径和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/121. 买卖股票的最佳时机.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/122. 买卖股票的最佳时机 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/123. 买卖股票的最佳时机 III.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/152. 乘积最大子数组.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/198. 打家劫舍.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213. 打家劫舍 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/322. 零钱兑换.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/53. 最大子序和3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/62. 不同路径.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/63. 不同路径 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/70. 爬楼梯.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/94. 二叉树的中序遍历.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/141. 环形链表.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/142. 环形链表 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. 三数之和2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20. 有效的括号.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/206. 反转链表.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24. 两两交换链表中的节点2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47. 全排列 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/589. N叉树的前序遍历.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/123. 买卖股票的最佳时机 III.js" beforeDir="false" afterPath="$PROJECT_DIR$/123. 买卖股票的最佳时机 III.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+    <layout place="tools.popupGulp">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="ProjectId" id="1h7zrjUz9XSppMaHDV9PNRA0n69" />
   <component name="ProjectLevelVcsManager">
@@ -72,8 +78,11 @@
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.53. 最大子序和3.js">
+  <component name="RunManager" selected="Node.js.20. 有效的括号.js">
     <configuration name="1143. 最长公共子序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1143. 最长公共子序列.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="20. 有效的括号.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/20. 有效的括号.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="53. 最大子序和3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/53. 最大子序和3.js" working-dir="$PROJECT_DIR$">
@@ -84,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.20. 有效的括号.js" />
         <item itemvalue="Node.js.53. 最大子序和3.js" />
         <item itemvalue="Node.js.跳跃游戏.js" />
         <item itemvalue="Node.js.1143. 最长公共子序列.js" />
@@ -111,6 +121,10 @@
       <workItem from="1600063523152" duration="730000" />
       <workItem from="1600084709315" duration="6275000" />
       <workItem from="1600158256065" duration="20145000" />
+      <workItem from="1600247997362" duration="66000" />
+      <workItem from="1600263623589" duration="1879000" />
+      <workItem from="1600308378525" duration="7540000" />
+      <workItem from="1600400511836" duration="1894000" />
     </task>
     <servers />
   </component>
@@ -134,30 +148,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599702796413" />
-    <state width="1396" height="120" key="GridCell.Tab.0.bottom" timestamp="1600247962324">
+    <state width="1396" height="135" key="GridCell.Tab.0.bottom" timestamp="1600392955005">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="120" key="GridCell.Tab.0.bottom/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600247962324" />
+    <state width="1396" height="135" key="GridCell.Tab.0.bottom/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600392955005" />
     <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599969297004" />
-    <state width="1396" height="120" key="GridCell.Tab.0.center" timestamp="1600247962319">
+    <state width="1396" height="135" key="GridCell.Tab.0.center" timestamp="1600392955004">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="120" key="GridCell.Tab.0.center/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600247962319" />
+    <state width="1396" height="135" key="GridCell.Tab.0.center/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600392955004" />
     <state width="1396" height="153" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599969297003" />
-    <state width="1396" height="120" key="GridCell.Tab.0.left" timestamp="1600247962316">
+    <state width="1396" height="135" key="GridCell.Tab.0.left" timestamp="1600392955002">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="120" key="GridCell.Tab.0.left/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600247962316" />
+    <state width="1396" height="135" key="GridCell.Tab.0.left/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600392955002" />
     <state width="1396" height="153" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599969297002" />
-    <state width="1396" height="120" key="GridCell.Tab.0.right" timestamp="1600247962321">
+    <state width="1396" height="135" key="GridCell.Tab.0.right" timestamp="1600392955004">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="120" key="GridCell.Tab.0.right/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600247962321" />
+    <state width="1396" height="135" key="GridCell.Tab.0.right/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600392955004" />
     <state width="1396" height="153" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599969297003" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1600221505044">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600221505044" />
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1599500036021" />
+    <state x="595" y="325" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1600446539287">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="595" y="325" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1440.900@0.0.1440.900" timestamp="1600446539287" />
   </component>
 </project>
