@@ -20,16 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/141. 环形链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/142. 环形链表 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. 三数之和2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20. 有效的括号.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/206. 反转链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24. 两两交换链表中的节点2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/47. 全排列 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/589. N叉树的前序遍历.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1143. 最长公共子序列3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/120. 三角形最小路径和2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/240. 搜索二维矩阵 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. 最长回文子串.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62. 不同路径2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/621. 任务调度器.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63. 不同路径 II2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list/两数相加.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list/反转链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list/环形链表.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/123. 买卖股票的最佳时机 III.js" beforeDir="false" afterPath="$PROJECT_DIR$/123. 买卖股票的最佳时机 III.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +127,10 @@
       <workItem from="1600247997362" duration="66000" />
       <workItem from="1600263623589" duration="1879000" />
       <workItem from="1600308378525" duration="7540000" />
-      <workItem from="1600400511836" duration="1894000" />
+      <workItem from="1600400511836" duration="2044000" />
+      <workItem from="1600579079327" duration="5748000" />
+      <workItem from="1600737756424" duration="1566000" />
+      <workItem from="1607180010456" duration="1991000" />
     </task>
     <servers />
   </component>
