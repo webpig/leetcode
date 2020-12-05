@@ -20,19 +20,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1143. 最长公共子序列3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/120. 三角形最小路径和2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240. 搜索二维矩阵 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. 最长回文子串.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/62. 不同路径2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/621. 任务调度器.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/63. 不同路径 II2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked-list/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked-list/两数相加.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked-list/反转链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked-list/环形链表.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/102. 二叉树的层序遍历.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/102. 二叉树的层序遍历.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/103. 二叉树的锯齿形层次遍历.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/103. 二叉树的锯齿形层次遍历.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/104. 二叉树的最大深度.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/104. 二叉树的最大深度.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11. 盛最多水的容器.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/11. 盛最多水的容器.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/111. 二叉树的最小深度.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/111. 二叉树的最小深度.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1137. 第 N 个泰波那契数.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/1137. 第 N 个泰波那契数.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1143. 最长公共子序列.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/1143. 最长公共子序列.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1143. 最长公共子序列2.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/1143. 最长公共子序列2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1143. 最长公共子序列3.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/1143. 最长公共子序列3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120. 三角形最小路径和.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/120. 三角形最小路径和.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/120. 三角形最小路径和2.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/120. 三角形最小路径和2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/121. 买卖股票的最佳时机.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/121. 买卖股票的最佳时机.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/122. 买卖股票的最佳时机 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/122. 买卖股票的最佳时机 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/123. 买卖股票的最佳时机 III.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/123. 买卖股票的最佳时机 III.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/127. 单词接龙.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/127. 单词接龙.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/130. 被围绕的区域.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/130. 被围绕的区域.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/130. 被围绕的区域2.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/130. 被围绕的区域2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/141. 环形链表.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/141. 环形链表.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/141、环形链表.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/141、环形链表.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/142. 环形链表 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/142. 环形链表 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15. 三数之和.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/15. 三数之和.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15. 三数之和2.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/15. 三数之和2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/152. 乘积最大子数组.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/152. 乘积最大子数组.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15、三数之和.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/15、三数之和.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/169. 多数元素.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/169. 多数元素.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/198. 打家劫舍.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/198. 打家劫舍.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1、两数之和.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/1、两数之和.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. 有效的括号.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/20. 有效的括号.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/206. 反转链表.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/206. 反转链表.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/213. 打家劫舍 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/213. 打家劫舍 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/216. 组合总和 III.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/216. 组合总和 III.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22. 括号生成.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/22. 括号生成.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24. 两两交换链表中的节点.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/24. 两两交换链表中的节点.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24. 两两交换链表中的节点2.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/24. 两两交换链表中的节点2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/240. 搜索二维矩阵 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/240. 搜索二维矩阵 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/283. 移动零.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/283. 移动零.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/322. 零钱兑换.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/322. 零钱兑换.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/377. 组合总和 Ⅳ.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/377. 组合总和 Ⅳ.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/39. 组合总和.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/39. 组合总和.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/40. 组合总和 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/40. 组合总和 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/433. 最小基因变化.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/433. 最小基因变化.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/47. 全排列 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/47. 全排列 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. 最长回文子串.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/5. 最长回文子串.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/53. 最大子序和.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/53. 最大子序和.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/53. 最大子序和2.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/53. 最大子序和2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/53. 最大子序和3.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/53. 最大子序和3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/560. 和为K的子数组.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/560. 和为K的子数组.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/589. N叉树的前序遍历.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/589. N叉树的前序遍历.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/62. 不同路径.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/62. 不同路径.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/62. 不同路径2.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/62. 不同路径2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/621. 任务调度器.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/621. 任务调度器.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/63. 不同路径 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/63. 不同路径 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/63. 不同路径 II2.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/63. 不同路径 II2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/637. 二叉树的层平均值.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/637. 二叉树的层平均值.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/70. 爬楼梯.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/70. 爬楼梯.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/74. 搜索二维矩阵.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/74. 搜索二维矩阵.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/77. 组合.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/77. 组合.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/77. 组合2.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/77. 组合2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/82. 删除排序链表中的重复元素 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/82. 删除排序链表中的重复元素 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/874. 模拟行走机器人.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/874. 模拟行走机器人.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/92. 反转链表 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/92. 反转链表 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/94. 二叉树的中序遍历.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/94. 二叉树的中序遍历.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked-list/两数相加.md" beforeDir="false" afterPath="$PROJECT_DIR$/linked-list/add-two-numbers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked-list/反转链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/linked-list/reverse-linked-list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked-list/环形链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/linked-list/linked-list-cycle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指 Offer 05. 替换空格.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/剑指 Offer 05. 替换空格.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/四数之和.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/四数之和.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/跳跃游戏.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/跳跃游戏.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,17 +138,22 @@
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code" />
+    </key>
+  </component>
   <component name="RunManager" selected="Node.js.20. 有效的括号.js">
-    <configuration name="1143. 最长公共子序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1143. 最长公共子序列.js" working-dir="$PROJECT_DIR$">
+    <configuration name="1143. 最长公共子序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/1143. 最长公共子序列.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="20. 有效的括号.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/20. 有效的括号.js" working-dir="$PROJECT_DIR$">
+    <configuration name="20. 有效的括号.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/20. 有效的括号.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="53. 最大子序和3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/53. 最大子序和3.js" working-dir="$PROJECT_DIR$">
+    <configuration name="53. 最大子序和3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/53. 最大子序和3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="跳跃游戏.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/跳跃游戏.js" working-dir="$PROJECT_DIR$">
+    <configuration name="跳跃游戏.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/跳跃游戏.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -130,7 +192,7 @@
       <workItem from="1600400511836" duration="2044000" />
       <workItem from="1600579079327" duration="5748000" />
       <workItem from="1600737756424" duration="1566000" />
-      <workItem from="1607180010456" duration="1991000" />
+      <workItem from="1607180010456" duration="2345000" />
     </task>
     <servers />
   </component>
