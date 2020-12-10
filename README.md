@@ -1,5 +1,9 @@
 ## leetcode题解
 
+### 数组
+
+[移动零](./array/move-zeroes.md)
+
 ### 链表
 
 [两数之和](./linked-list/add-two-numbers.md)

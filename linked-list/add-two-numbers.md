@@ -1,7 +1,6 @@
 ## 两数之和
 
-题目链接
-：[2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+题目链接：[2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ```js
 var addTwoNumbers = function(l1, l2) {
