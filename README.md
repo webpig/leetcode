@@ -17,3 +17,5 @@
 [环形链表 II](./linked-list/linked-list-cycle-ii.md)
 
 [合并两个有序链表](./linked-list/merge-two-sorted-lists.md)
+
+[合并K个升序链表](./linked-list/merge-k-sorted-lists.md)
