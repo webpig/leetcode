@@ -19,3 +19,11 @@
 [合并两个有序链表](./linked-list/merge-two-sorted-lists.md)
 
 [合并K个升序链表](./linked-list/merge-k-sorted-lists.md)
+
+### 字符串
+
+[去除重复字母](./string/remove-duplicate-letters.md)
+
+### 树
+
+[二叉树的遍历](./tree/traversal.md)

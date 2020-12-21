@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tree/traversal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/remove-duplicate-letters.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +133,10 @@
       <workItem from="1607652501661" duration="4660000" />
       <workItem from="1608002488267" duration="4579000" />
       <workItem from="1608084746656" duration="7120000" />
-      <workItem from="1608171469586" duration="12765000" />
+      <workItem from="1608171469586" duration="13224000" />
+      <workItem from="1608223321926" duration="1301000" />
+      <workItem from="1608309023525" duration="2748000" />
+      <workItem from="1608531460182" duration="3177000" />
     </task>
     <servers />
   </component>
