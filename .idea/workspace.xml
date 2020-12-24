@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lcof/dui-cheng-de-er-cha-shu-lcof.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lcof/er-cha-shu-de-jing-xiang-lcof.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lcof/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/invert-binary-tree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/symmetric-tree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcof/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcof/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/lcof/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +137,8 @@
       <workItem from="1608223321926" duration="1301000" />
       <workItem from="1608309023525" duration="2748000" />
       <workItem from="1608531460182" duration="4021000" />
-      <workItem from="1608776931932" duration="4292000" />
+      <workItem from="1608776931932" duration="4566000" />
+      <workItem from="1608806559824" duration="1597000" />
     </task>
     <servers />
   </component>
