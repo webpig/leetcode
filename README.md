@@ -1,5 +1,7 @@
 ## leetcode题解
 
+[剑指Offer系列](./lcof/index.md)
+
 ### 数组
 
 [移动零](./array/move-zeroes.md)
@@ -27,3 +29,7 @@
 ### 树
 
 [二叉树的遍历](./tree/traversal.md)
+
+[翻转二叉树](./tree/invert-binary-tree.md)
+
+[对称二叉树](./tree/symmetric-tree.md)
