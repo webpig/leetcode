@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lcof/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcof/shu-de-zi-jie-gou-lcof.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lcof/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/lcof/index.md" afterDir="false" />
     </list>
@@ -138,7 +137,8 @@
       <workItem from="1608309023525" duration="2748000" />
       <workItem from="1608531460182" duration="4021000" />
       <workItem from="1608776931932" duration="4566000" />
-      <workItem from="1608806559824" duration="1597000" />
+      <workItem from="1608806559824" duration="1950000" />
+      <workItem from="1608863807243" duration="4195000" />
     </task>
     <servers />
   </component>
