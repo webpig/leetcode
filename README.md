@@ -4,6 +4,14 @@
 
 ### 数组
 
+[两数之和](./array/two-sum.md)
+
+[三数之和](./array/three-sum.md)
+
+[四数之和](./array/four-sum.md)
+
+[K数之和](./array/k-sum.md)
+
 [移动零](./array/move-zeroes.md)
 
 [盛最多水的容器](./array/container-with-most-water.md)
