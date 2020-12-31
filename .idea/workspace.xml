@@ -20,15 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/four-sum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/k-sum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/three-sum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/two-sum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lcof/he-wei-sde-liang-ge-shu-zi-lcof.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/daily-temperatures.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lcof/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/lcof/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +140,9 @@
       <workItem from="1608776931932" duration="4566000" />
       <workItem from="1608806559824" duration="1950000" />
       <workItem from="1608863807243" duration="4945000" />
-      <workItem from="1609043338521" duration="10633000" />
+      <workItem from="1609043338521" duration="10996000" />
+      <workItem from="1609208368134" duration="3763000" />
+      <workItem from="1609382511012" duration="7370000" />
     </task>
     <servers />
   </component>
@@ -165,34 +162,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599702796413">
+    <state x="358" y="215" key="MultipleFileMergeDialog" timestamp="1609060043501">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1599702796413" />
-    <state width="1396" height="135" key="GridCell.Tab.0.bottom" timestamp="1600392955005">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="135" key="GridCell.Tab.0.bottom/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600392955005" />
-    <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599969297004" />
-    <state width="1396" height="135" key="GridCell.Tab.0.center" timestamp="1600392955004">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="135" key="GridCell.Tab.0.center/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600392955004" />
-    <state width="1396" height="153" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599969297003" />
-    <state width="1396" height="135" key="GridCell.Tab.0.left" timestamp="1600392955002">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="135" key="GridCell.Tab.0.left/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600392955002" />
-    <state width="1396" height="153" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599969297002" />
-    <state width="1396" height="135" key="GridCell.Tab.0.right" timestamp="1600392955004">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="135" key="GridCell.Tab.0.right/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600392955004" />
-    <state width="1396" height="153" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599969297003" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1600221505044">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1600221505044" />
+    <state x="358" y="215" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1609060043501" />
     <state x="595" y="325" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1600446539287">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

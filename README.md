@@ -30,6 +30,10 @@
 
 [合并K个升序链表](./linked-list/merge-k-sorted-lists.md)
 
+### 栈
+
+[每日温度](./stack/daily-temperatures.md)
+
 ### 字符串
 
 [去除重复字母](./string/remove-duplicate-letters.md)
