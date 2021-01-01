@@ -34,6 +34,9 @@
 
 [每日温度](./stack/daily-temperatures.md)
 
+[下一个更大元素 I](./stack/next-greater-element-i.md)
+[下一个更大元素 II](./stack/next-greater-element-ii.md)
+
 ### 字符串
 
 [去除重复字母](./string/remove-duplicate-letters.md)
