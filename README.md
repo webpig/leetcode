@@ -30,11 +30,14 @@
 
 [合并K个升序链表](./linked-list/merge-k-sorted-lists.md)
 
+[分隔链表](./linked-list/partition-list.md)
+
 ### 栈
 
 [每日温度](./stack/daily-temperatures.md)
 
 [下一个更大元素 I](./stack/next-greater-element-i.md)
+
 [下一个更大元素 II](./stack/next-greater-element-ii.md)
 
 ### 字符串

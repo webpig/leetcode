@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack/next-greater-element-i.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/next-greater-element-ii.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list/partition-list.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -144,7 +143,8 @@
       <workItem from="1609043338521" duration="10996000" />
       <workItem from="1609208368134" duration="3763000" />
       <workItem from="1609382511012" duration="7971000" />
-      <workItem from="1609471940079" duration="2472000" />
+      <workItem from="1609471940079" duration="2630000" />
+      <workItem from="1609605949311" duration="3340000" />
     </task>
     <servers />
   </component>
