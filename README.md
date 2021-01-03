@@ -51,3 +51,7 @@
 [翻转二叉树](./tree/invert-binary-tree.md)
 
 [对称二叉树](./tree/symmetric-tree.md)
+
+[二叉树的所有路径](./tree/binary-tree-paths.md)
+
+[左叶子之和](./tree/sum-of-left-leaves.md)
