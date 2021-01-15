@@ -24,3 +24,31 @@ var sumOfLeftLeaves = function(root) {
     return sum
 };
 ```
+
+### BFS
+
+```js
+var sumOfLeftLeaves = function(root) {
+    if (!root) return 0
+
+    let sum = 0
+    const queue = [root]
+
+    while (queue.length) {
+        const size = queue.length
+
+        for (let i = 0; i < size; i++) {
+            const node = queue.shift()
+
+            if (node.left && !node.left.left && !node.left.right) {
+                sum += node.left.val
+            }
+
+            if (node.left) queue.push(node.left)
+            if (node.right) queue.push(node.right)
+        }
+    }
+
+    return sum
+};
+```

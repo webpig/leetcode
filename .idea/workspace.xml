@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dfs/employee-importance.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/find-bottom-left-tree-value.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/sum-of-left-leaves.md" beforeDir="false" afterPath="$PROJECT_DIR$/tree/sum-of-left-leaves.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -146,12 +147,16 @@
       <workItem from="1609605949311" duration="10232000" />
       <workItem from="1609904778030" duration="6272000" />
       <workItem from="1609989543941" duration="11147000" />
-      <workItem from="1610368861170" duration="4757000" />
+      <workItem from="1610368861170" duration="6242000" />
+      <workItem from="1610677372870" duration="1718000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -166,14 +171,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="381" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610678206049">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="381" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1610678206049" />
     <state x="358" y="215" key="MultipleFileMergeDialog" timestamp="1609060043501">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="358" y="215" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1609060043501" />
-    <state x="595" y="325" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1600446539287">
+    <state x="229" y="86" key="SettingsEditor" timestamp="1610678340377">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="595" y="325" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1440.900@0.0.1440.900" timestamp="1600446539287" />
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1610678340377" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1608191339483">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
