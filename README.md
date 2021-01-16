@@ -61,3 +61,5 @@
 [找树左下角的值](./tree/find-bottom-left-tree-value.md)
 
 [路径总和](./tree/path-sum.md)
+
+[从中序与后序遍历序列构造二叉树](./tree/construct-binary-tree-from-inorder-and-postorder-traversal.md)
