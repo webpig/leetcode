@@ -63,3 +63,7 @@
 [路径总和](./tree/path-sum.md)
 
 [从中序与后序遍历序列构造二叉树](./tree/construct-binary-tree-from-inorder-and-postorder-traversal.md)
+
+[二叉树的右视图](./tree/binary-tree-right-side-view.md)
+
+[二叉树中的众数](./tree/find-mode-in-binary-search-tree.md)
