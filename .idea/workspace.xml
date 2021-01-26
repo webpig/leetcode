@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tree/find-mode-in-binary-search-tree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcof/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcof/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcof/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/lcof/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +151,17 @@
       <workItem from="1610368861170" duration="6242000" />
       <workItem from="1610677372870" duration="1718000" />
       <workItem from="1610679649882" duration="9938000" />
-      <workItem from="1610936374808" duration="9162000" />
+      <workItem from="1610936374808" duration="9836000" />
+      <workItem from="1610961026019" duration="1000" />
+      <workItem from="1611022436951" duration="581000" />
+      <workItem from="1611041325260" duration="34000" />
+      <workItem from="1611061155129" duration="513000" />
+      <workItem from="1611062615430" duration="88000" />
+      <workItem from="1611109698092" duration="6039000" />
+      <workItem from="1611280711960" duration="1698000" />
+      <workItem from="1611366510194" duration="3038000" />
+      <workItem from="1611539326419" duration="14053000" />
+      <workItem from="1611630132007" duration="9023000" />
     </task>
     <servers />
   </component>
@@ -181,10 +192,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="358" y="215" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1609060043501" />
-    <state x="229" y="109" key="SettingsEditor" timestamp="1610936394325">
-      <screen x="0" y="25" width="1440" height="875" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1611630144278">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="229" y="86" key="SettingsEditor/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1610678340377" />
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1611630144278" />
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1611366584883" />
     <state x="229" y="109" key="SettingsEditor/0.25.1440.875/1277.-1055.1920.1055@0.25.1440.875" timestamp="1610936394325" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1608191339483">
       <screen x="0" y="0" width="1440" height="900" />
