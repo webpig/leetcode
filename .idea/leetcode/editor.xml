@@ -203,6 +203,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/15/0_7tnqwn5x93r1w6l02_9rbc0000gn/T/leetcode/editor/cn/[357]计算各个位数不同的数字个数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/15/0_7tnqwn5x93r1w6l02_9rbc0000gn/T/leetcode/editor/cn/[357]计算各个位数不同的数字个数.js" />
+              <option name="questionId" value="357" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/15/0_7tnqwn5x93r1w6l02_9rbc0000gn/T/leetcode/editor/cn/[383]赎金信.js">
           <value>
             <LeetcodeEditor>
@@ -320,6 +328,14 @@
             <LeetcodeEditor>
               <option name="path" value="/var/folders/15/0_7tnqwn5x93r1w6l02_9rbc0000gn/T/leetcode/editor/cn/[77]组合.js" />
               <option name="questionId" value="77" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/15/0_7tnqwn5x93r1w6l02_9rbc0000gn/T/leetcode/editor/cn/[784]字母大小写全排列.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/15/0_7tnqwn5x93r1w6l02_9rbc0000gn/T/leetcode/editor/cn/[784]字母大小写全排列.js" />
+              <option name="questionId" value="800" />
             </LeetcodeEditor>
           </value>
         </entry>

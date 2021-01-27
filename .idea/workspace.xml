@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hash/ransom-note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/letter-case-permutation.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -161,7 +161,7 @@
       <workItem from="1611366510194" duration="3038000" />
       <workItem from="1611539326419" duration="14053000" />
       <workItem from="1611630132007" duration="10719000" />
-      <workItem from="1611712973129" duration="2206000" />
+      <workItem from="1611712973129" duration="5174000" />
     </task>
     <servers />
   </component>
@@ -184,10 +184,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="381" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610678206049">
+    <state x="381" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611718109143">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="381" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1610678206049" />
+    <state x="381" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1611718109143" />
     <state x="358" y="215" key="MultipleFileMergeDialog" timestamp="1609060043501">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
