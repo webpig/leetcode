@@ -40,6 +40,10 @@
 
 [下一个更大元素 II](./stack/next-greater-element-ii.md)
 
+### 哈希表
+
+[赎金信](./hash/ransom-note.md)
+
 ### 字符串
 
 [去除重复字母](./string/remove-duplicate-letters.md)
