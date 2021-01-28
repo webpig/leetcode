@@ -1,5 +1,7 @@
 ## 剑指Offer系列题解
 
+[剑指 Offer 03. 数组中重复的数字](./shu-zu-zhong-zhong-fu-de-shu-zi-lcof.md)
+
 [剑指 Offer 26. 树的子结构](./shu-de-zi-jie-gou-lcof.md)
 
 [剑指 Offer 27. 二叉树的镜像](./er-cha-shu-de-jing-xiang-lcof.md)
