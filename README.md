@@ -44,6 +44,8 @@
 
 [赎金信](./hash/ransom-note.md)
 
+[快乐数](./hash/happy-number.md)
+
 ### 字符串
 
 [去除重复字母](./string/remove-duplicate-letters.md)
