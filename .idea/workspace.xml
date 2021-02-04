@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hash/happy-number.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtracking/all-paths-from-source-to-target.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -164,7 +164,12 @@
       <workItem from="1611712973129" duration="6425000" />
       <workItem from="1611825175402" duration="2327000" />
       <workItem from="1611840659434" duration="119000" />
-      <workItem from="1611898397540" duration="1903000" />
+      <workItem from="1611898397540" duration="2577000" />
+      <workItem from="1611969664253" duration="5154000" />
+      <workItem from="1612160745718" duration="2351000" />
+      <workItem from="1612239329868" duration="3103000" />
+      <workItem from="1612322486718" duration="3698000" />
+      <workItem from="1612406634518" duration="2826000" />
     </task>
     <servers />
   </component>
@@ -185,25 +190,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="381" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611718109143">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="381" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1611718109143" />
-    <state x="358" y="215" key="MultipleFileMergeDialog" timestamp="1609060043501">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="358" y="215" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1609060043501" />
-    <state x="229" y="86" key="SettingsEditor" timestamp="1611713218065">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="229" y="86" key="SettingsEditor/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1611713218065" />
-    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1611366584883" />
-    <state x="229" y="109" key="SettingsEditor/0.25.1440.875/1277.-1055.1920.1055@0.25.1440.875" timestamp="1610936394325" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1608191339483">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1277.-1080.1920.1080@0.0.1440.900" timestamp="1608191339483" />
   </component>
 </project>
