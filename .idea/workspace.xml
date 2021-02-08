@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backtracking/all-paths-from-source-to-target.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/3sum-closest.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -93,9 +93,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.20. 有效的括号.js" />
-        <item itemvalue="Node.js.53. 最大子序和3.js" />
         <item itemvalue="Node.js.跳跃游戏.js" />
+        <item itemvalue="Node.js.53. 最大子序和3.js" />
+        <item itemvalue="Node.js.20. 有效的括号.js" />
         <item itemvalue="Node.js.1143. 最长公共子序列.js" />
       </list>
     </recent_temporary>
@@ -169,7 +169,9 @@
       <workItem from="1612160745718" duration="2351000" />
       <workItem from="1612239329868" duration="3103000" />
       <workItem from="1612322486718" duration="3698000" />
-      <workItem from="1612406634518" duration="2826000" />
+      <workItem from="1612406634518" duration="4329000" />
+      <workItem from="1612491712040" duration="2623000" />
+      <workItem from="1612750203163" duration="3205000" />
     </task>
     <servers />
   </component>

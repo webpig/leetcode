@@ -16,6 +16,8 @@
 
 [盛最多水的容器](./array/container-with-most-water.md)
 
+[最接近的三数之和](./array/3sum-closest.md)
+
 ### 链表
 
 [两数之和](./linked-list/add-two-numbers.md)
