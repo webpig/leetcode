@@ -80,4 +80,8 @@
 
 [字母大小写全排列](./backtracking/letter-case-permutation.md)
 
-[所有可能的路径](./backtracking/all-paths-from-source-to-target.md)_
+[所有可能的路径](./backtracking/all-paths-from-source-to-target.md)
+
+[子集](./backtracking/subsets.md)
+
+[子集 II](./backtracking/subsets-ii.md)
