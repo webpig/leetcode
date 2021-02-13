@@ -18,6 +18,8 @@
 
 [最接近的三数之和](./array/3sum-closest.md)
 
+[找到所有数组中消失的数字](./array/find-all-numbers-disappeared-in-an-array.md)
+
 ### 链表
 
 [两数之和](./linked-list/add-two-numbers.md)
