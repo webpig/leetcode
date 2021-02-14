@@ -20,6 +20,8 @@
 
 [找到所有数组中消失的数字](./array/find-all-numbers-disappeared-in-an-array.md)
 
+[区间列表的交集](./array/interval-list-intersections.md)
+
 ### 链表
 
 [两数之和](./linked-list/add-two-numbers.md)
