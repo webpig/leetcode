@@ -22,6 +22,8 @@
 
 [区间列表的交集](./array/interval-list-intersections.md)
 
+[删除排序数组中的重复项 II](./array/remove-duplicates-from-sorted-array-ii.md)
+
 ### 链表
 
 [两数之和](./linked-list/add-two-numbers.md)
