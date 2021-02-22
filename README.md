@@ -18,6 +18,12 @@
 
 [最接近的三数之和](./array/3sum-closest.md)
 
+[找到所有数组中消失的数字](./array/find-all-numbers-disappeared-in-an-array.md)
+
+[区间列表的交集](./array/interval-list-intersections.md)
+
+[删除排序数组中的重复项 II](./array/remove-duplicates-from-sorted-array-ii.md)
+
 ### 链表
 
 [两数之和](./linked-list/add-two-numbers.md)
@@ -76,12 +82,12 @@
 
 [二叉树中的众数](./tree/find-mode-in-binary-search-tree.md)
 
-### 排序
-
-[排序数组](./sort/sort-an-array.md)
-
 ### 回溯算法
 
 [字母大小写全排列](./backtracking/letter-case-permutation.md)
 
 [所有可能的路径](./backtracking/all-paths-from-source-to-target.md)
+
+[子集](./backtracking/subsets.md)
+
+[子集 II](./backtracking/subsets-ii.md)
