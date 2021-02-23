@@ -82,6 +82,10 @@
 
 [二叉树中的众数](./tree/find-mode-in-binary-search-tree.md)
 
+### 排序
+
+[排序数组](./sort/sort-an-array.md)
+
 ### 回溯算法
 
 [字母大小写全排列](./backtracking/letter-case-permutation.md)
