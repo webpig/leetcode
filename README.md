@@ -48,6 +48,8 @@
 
 [下一个更大元素 II](./stack/next-greater-element-ii.md)
 
+[用栈实现队列](./stack/implement-queue-using-stacks.md)
+
 ### 哈希表
 
 [赎金信](./hash/ransom-note.md)
