@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack/implement-queue-using-stacks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcof/que-shi-de-shu-zi-lcof.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lcof/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/lcof/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +176,8 @@
       <workItem from="1612835661873" duration="1136000" />
       <workItem from="1613018433547" duration="31267000" />
       <workItem from="1614007152820" duration="8759000" />
-      <workItem from="1614959577785" duration="661000" />
+      <workItem from="1614959577785" duration="1299000" />
+      <workItem from="1615030226279" duration="1768000" />
     </task>
     <servers />
   </component>

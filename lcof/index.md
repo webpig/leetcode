@@ -14,6 +14,8 @@
 
 [剑指 Offer 51. 数组中的逆序对](./shu-zu-zhong-de-ni-xu-dui-lcof.md)
 
+[剑指 Offer 53 - II. 0～n-1中缺失的数字](./que-shi-de-shu-zi-lcof.md)
+
 [剑指 Offer 57. 和为s的两个数字](./he-wei-sde-liang-ge-shu-zi-lcof.md)
 
 [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](./er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.md)
