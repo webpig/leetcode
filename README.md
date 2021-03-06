@@ -88,6 +88,10 @@
 
 [排序数组](./sort/sort-an-array.md)
 
+### 二分查找
+
+[在排序数组中查找元素的第一个和最后一个位置](./binarySearch/find-first-and-last-position-of-element-in-sorted-array.md)
+
 ### 回溯算法
 
 [字母大小写全排列](./backtracking/letter-case-permutation.md)
