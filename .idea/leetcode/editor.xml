@@ -659,6 +659,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[131]分割回文串.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[131]分割回文串.js" />
+              <option name="questionId" value="131" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[132]分割回文串 II.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[132]分割回文串 II.js" />
+              <option name="questionId" value="132" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[1371]每个元音包含偶数次的最长子字符串.js">
           <value>
             <LeetcodeEditor>
@@ -699,11 +715,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[503]下一个更大元素 II.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[503]下一个更大元素 II.js" />
+              <option name="questionId" value="503" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[566]重塑矩阵.js">
           <value>
             <LeetcodeEditor>
               <option name="path" value="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[566]重塑矩阵.js" />
               <option name="questionId" value="566" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[567]字符串的排列.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[567]字符串的排列.js" />
+              <option name="questionId" value="567" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -752,6 +784,14 @@
             <LeetcodeEditor>
               <option name="path" value="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[986]区间列表的交集.js" />
               <option name="questionId" value="1028" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[剑指 Offer 38]字符串的排列.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[剑指 Offer 38]字符串的排列.js" />
+              <option name="questionId" value="100308" />
             </LeetcodeEditor>
           </value>
         </entry>

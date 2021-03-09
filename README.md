@@ -50,6 +50,8 @@
 
 [用栈实现队列](./stack/implement-queue-using-stacks.md)
 
+[删除字符串中的所有相邻重复项](./stack/remove-all-adjacent-duplicates-in-string.md)
+
 ### 哈希表
 
 [赎金信](./hash/ransom-note.md)
