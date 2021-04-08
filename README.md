@@ -94,6 +94,8 @@
 
 [在排序数组中查找元素的第一个和最后一个位置](./binarySearch/find-first-and-last-position-of-element-in-sorted-array.md)
 
+[寻找旋转排序数组中的最小值](./binarySearch/find-minimum-in-rotated-sorted-array.md)
+
 ### 回溯算法
 
 [字母大小写全排列](./backtracking/letter-case-permutation.md)

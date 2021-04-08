@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack/remove-all-adjacent-duplicates-in-string.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binarySearch/find-minimum-in-rotated-sorted-array.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -79,7 +79,7 @@
       <recent name="$PROJECT_DIR$/code" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.20. 有效的括号.js">
+  <component name="RunManager" selected="Node.js.[1006]笨阶乘.js">
     <configuration name="1143. 最长公共子序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/1143. 最长公共子序列.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -89,11 +89,15 @@
     <configuration name="53. 最大子序和3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/53. 最大子序和3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="[1006]笨阶乘.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn/[1006]笨阶乘.js" working-dir="/var/folders/78/4gw0r5_n5sj0px_y302prn9w0000gn/T/leetcode/editor/cn">
+      <method v="2" />
+    </configuration>
     <configuration name="跳跃游戏.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code/跳跃游戏.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.[1006]笨阶乘.js" />
         <item itemvalue="Node.js.跳跃游戏.js" />
         <item itemvalue="Node.js.53. 最大子序和3.js" />
         <item itemvalue="Node.js.20. 有效的括号.js" />
@@ -177,7 +181,19 @@
       <workItem from="1613018433547" duration="31267000" />
       <workItem from="1614007152820" duration="8759000" />
       <workItem from="1614959577785" duration="1299000" />
-      <workItem from="1615030226279" duration="16714000" />
+      <workItem from="1615030226279" duration="17498000" />
+      <workItem from="1615815322304" duration="4162000" />
+      <workItem from="1615908488620" duration="2721000" />
+      <workItem from="1616388311874" duration="660000" />
+      <workItem from="1616687828606" duration="2458000" />
+      <workItem from="1617332813559" duration="2391000" />
+      <workItem from="1617415250426" duration="3659000" />
+      <workItem from="1617436262885" duration="1000" />
+      <workItem from="1617506778549" duration="1555000" />
+      <workItem from="1617593656212" duration="2443000" />
+      <workItem from="1617695130557" duration="740000" />
+      <workItem from="1617808959174" duration="973000" />
+      <workItem from="1617859286842" duration="1147000" />
     </task>
     <servers />
   </component>
