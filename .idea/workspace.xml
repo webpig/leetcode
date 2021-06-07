@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fe957fc-71c9-4e60-ac3b-6314aab48bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/binarySearch/find-minimum-in-rotated-sorted-array.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/largest-perimeter-triangle.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -70,7 +70,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -193,7 +193,23 @@
       <workItem from="1617593656212" duration="2443000" />
       <workItem from="1617695130557" duration="740000" />
       <workItem from="1617808959174" duration="973000" />
-      <workItem from="1617859286842" duration="1147000" />
+      <workItem from="1617859286842" duration="2566000" />
+      <workItem from="1618061539785" duration="1154000" />
+      <workItem from="1618119686306" duration="741000" />
+      <workItem from="1618192746794" duration="1233000" />
+      <workItem from="1618226002061" duration="1268000" />
+      <workItem from="1618271733321" duration="1576000" />
+      <workItem from="1618406107625" duration="2200000" />
+      <workItem from="1618496213177" duration="3407000" />
+      <workItem from="1618576540533" duration="2293000" />
+      <workItem from="1618620550994" duration="2494000" />
+      <workItem from="1618717581428" duration="2150000" />
+      <workItem from="1619012550161" duration="2646000" />
+      <workItem from="1619828748193" duration="789000" />
+      <workItem from="1619835916170" duration="2466000" />
+      <workItem from="1621004622018" duration="192000" />
+      <workItem from="1623075912836" duration="574000" />
+      <workItem from="1623076515357" duration="207000" />
     </task>
     <servers />
   </component>

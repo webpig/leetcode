@@ -90,6 +90,8 @@
 
 [排序数组](./sort/sort-an-array.md)
 
+[三角形的最大周长](./sort/largest-perimeter-triangle.md)
+
 ### 二分查找
 
 [在排序数组中查找元素的第一个和最后一个位置](./binarySearch/find-first-and-last-position-of-element-in-sorted-array.md)
